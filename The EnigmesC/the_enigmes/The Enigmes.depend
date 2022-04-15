@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537800368 source:c:\users\a1980238\downloads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"enigmes.h"
+
+1537800416 c:\users\a1980238\downloads\enigmes.h
+
